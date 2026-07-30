@@ -24,7 +24,8 @@ I like taking messy data and turning it into something useful or easier to under
 - SQL  
 - Excel
 - Spyder  
-- GitHub  
+- Pandas
+- Jupyter  
 
 ---
 

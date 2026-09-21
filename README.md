@@ -25,7 +25,8 @@ I like taking messy data and turning it into something useful or easier to under
 - Excel
 - Spyder  
 - Pandas
-- Jupyter  
+- Jupyter
+- Generative & Agentic AI
 
 ---
 

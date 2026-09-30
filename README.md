@@ -8,11 +8,12 @@ I’m a Business Analytics & Information Systems (BAIS) student at the Universit
 
 ## What I’m learning / working on
 
+- Utilizing AI to solve business problems
 - Python scripting
+- AI Scrum
 - SQL and databases
-- Excel dashboards and data analysis
-- GitHub + version control
-- AWS cloud basics
+- GitHub + HuggingFace
+- AWS cloud
 
 I like taking messy data and turning it into something useful or easier to understand.
 
@@ -23,7 +24,8 @@ I like taking messy data and turning it into something useful or easier to under
 - Python  
 - SQL  
 - Excel
-- Spyder  
+- Spyder
+- VSCode  
 - Pandas
 - Jupyter
 - Generative & Agentic AI
@@ -35,7 +37,7 @@ I like taking messy data and turning it into something useful or easier to under
 - Building Python and SQL projects for practice
 - Learning how to use GitHub
 - Practicing analytics and data visualization  
-- Looking for internships in data analytics, business intelligence, or tech roles  
+- Looking for full-time roles in data analytics, business intelligence, or tech   
 
 ---
 
@@ -43,7 +45,8 @@ I like taking messy data and turning it into something useful or easier to under
 
 When I’m not on my computer, I’m usually outside:
 
-- hunting  
+- hunting
+- drinking coffee 
 - fishing  
 - skiing  
 - pretty much anything outdoors  

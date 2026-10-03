@@ -32,6 +32,12 @@ I like taking messy data and turning it into something useful or easier to under
 
 ---
 
+## Projects
+
+- **[AnglerIQ](https://github.com/Cael-Pairrett/AnglerIQ)** ([live demo](https://angler-iq.vercel.app)): a Next.js freshwater fishing app that combines weather, water conditions, and access points into a fishing outlook score.
+
+---
+
 ## Right now
 
 - Building Python and SQL projects for practice
@@ -57,7 +63,7 @@ It’s a good balance from staring at a screen all day.
 
 ## Reach me
 
-- LinkedIn: [www.linkedin.com/in/caelpairrett]
-- Email: [caelpairrett@gmail.com]
+- LinkedIn: [linkedin.com/in/caelpairrett](https://www.linkedin.com/in/caelpairrett)
+- Email: [caelpairrett@gmail.com](mailto:caelpairrett@gmail.com)
 
 Thanks for stopping by 👍
